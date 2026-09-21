@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#1e1e2e</color>
+    <color name="bg_tab_bar">#181825</color>
+    <color name="bg_active">#2a2a3c</color>
+    <color name="bg_url">#313244</color>
+    <color name="bg_hover">#45475a</color>
+    <color name="fg">#cdd6f4</color>
+    <color name="fg_muted">#a6adc8</color>
+    <color name="accent">#89b4fa</color>
+    <color name="accent_pink">#cba6f7</color>
+    <color name="err">#f38ba8</color>
+</resources>
